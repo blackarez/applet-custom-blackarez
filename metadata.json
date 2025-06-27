@@ -1,0 +1,8 @@
+{
+  "uuid": "applet-custom@blackarez",
+  "name": "Applet custom",
+  "description": "Custom quick access.",
+  "icon": "org.gnome.Settings",
+  "version": 1,
+  "max-instances": 1
+}

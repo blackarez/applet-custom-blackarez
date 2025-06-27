@@ -1,0 +1,36 @@
+/*
+black: #1f1f1f;
+gray: #505050;
+white: #ffffff;
+*/
+
+.button-sync {
+    background-color: #1f1f1f;
+    color: white;
+    padding: 6px;
+    border-radius: 6px;
+    border: 1px solid #ffffff;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+    width: 36px;
+    margin-top: 10px;
+}
+
+.button-sync:hover {
+    background-color: #505050;
+}
+
+.icon-sync {
+    icon-size: 16px;
+}
+
+.container-menu {
+    padding: 10px;
+    background-color: #1f1f1f;
+    border-radius: 6px;
+}
+
+.warp-sync.activo {
+    border-color: #ffffff;
+    color: #2ecc71;
+}
