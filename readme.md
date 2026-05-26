@@ -6,6 +6,7 @@ Este proyecto es una **guía práctica** para quienes están creando su primer a
 
 
 > ⚠️ **Este applet no está pensado para uso productivo o comercial**, sino como referencia educativa.
+> ⚠️ Crear una carpeta "applet-custom@blackarez" dentro de la carpeta "/home/TU_USUARIO/.local/share/cinnamon/applets"
 
 ### Linux mint 22.1 xia y cinnamon 6.4
 No lo he provado en otras versiones o distribuciones.
